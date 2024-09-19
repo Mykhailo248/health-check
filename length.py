@@ -7,3 +7,4 @@ def length_check(word):
             length_word[letter] = 1
     return length_word
 print(length_check('abrakadabra'))
+print("Goog job my friend")
